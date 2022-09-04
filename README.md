@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpita7700&show_icons=true&locale=en" alt="arpita7700" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita7700&" alt="arpita7700" /></p>
+
+![snake gif](https://github.com/Arpita7700/Arpita7700/blob/output/github-contribution-grid-snake.gif)
